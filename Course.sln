@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Globalization_01", "Globalization_01\Globalization_01.csproj", "{278C96F5-EC1C-47A1-9E73-AF8835EF6C69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBases", "DataBases\DataBases.csproj", "{FD345BA5-3ABA-4F00-8A5C-A5944559DA53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialize", "Serialize\Serialize.csproj", "{7FEE1F79-EB57-4298-9CDA-74A94CC2F3D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{278C96F5-EC1C-47A1-9E73-AF8835EF6C69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{278C96F5-EC1C-47A1-9E73-AF8835EF6C69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{278C96F5-EC1C-47A1-9E73-AF8835EF6C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{278C96F5-EC1C-47A1-9E73-AF8835EF6C69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD345BA5-3ABA-4F00-8A5C-A5944559DA53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD345BA5-3ABA-4F00-8A5C-A5944559DA53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD345BA5-3ABA-4F00-8A5C-A5944559DA53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD345BA5-3ABA-4F00-8A5C-A5944559DA53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FEE1F79-EB57-4298-9CDA-74A94CC2F3D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FEE1F79-EB57-4298-9CDA-74A94CC2F3D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FEE1F79-EB57-4298-9CDA-74A94CC2F3D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FEE1F79-EB57-4298-9CDA-74A94CC2F3D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
